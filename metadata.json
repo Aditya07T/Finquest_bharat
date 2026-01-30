@@ -1,0 +1,8 @@
+{
+  "name": "FinQuest Bharat",
+  "description": "A gamified financial literacy platform for students and young adults in Bharat. Features interactive scenarios, AI mentorship, and visual goal setting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
